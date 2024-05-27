@@ -1,0 +1,9 @@
+# HILA
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| HILA 118 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/HILA%20118.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/HILA%20118.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/HILA%20118.png) |  |
+| HILA 121A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/HILA%20121A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/HILA%20121A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/HILA%20121A.png) |  |
+| HILA 122 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/HILA%20122.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/HILA%20122.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/HILA%20122.png) |  |
+| HILA 169 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/HILA%20169.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/HILA%20169.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/HILA%20169.png) |  |
+| HILA 269 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/HILA%20269.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/HILA%20269.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/HILA%20269.png) |  |

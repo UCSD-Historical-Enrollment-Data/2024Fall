@@ -1,0 +1,11 @@
+# AUD
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| AUD 236 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/AUD%20236.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/AUD%20236.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/AUD%20236.png) |  |
+| AUD 257 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/AUD%20257.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/AUD%20257.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/AUD%20257.png) |  |
+| AUD 271 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/AUD%20271.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/AUD%20271.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/AUD%20271.png) |  |
+| AUD 274 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/AUD%20274.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/AUD%20274.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/AUD%20274.png) |  |
+| AUD 284 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/AUD%20284.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/AUD%20284.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/AUD%20284.png) |  |
+| AUD 291 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/AUD%20291.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/AUD%20291.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/AUD%20291.png) |  |
+| AUD 296 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/AUD%20296.csv) |  |

@@ -1,0 +1,9 @@
+# LTEA
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| LTEA 110B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/LTEA%20110B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/LTEA%20110B.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/LTEA%20110B.png) |  |
+| LTEA 120C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/LTEA%20120C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/LTEA%20120C.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/LTEA%20120C.png) |  |
+| LTEA 142 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/LTEA%20142.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/LTEA%20142.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/LTEA%20142.png) |  |
+| LTEA 145 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/LTEA%20145.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/LTEA%20145.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/LTEA%20145.png) |  |
+| LTEA 151 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/LTEA%20151.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/LTEA%20151.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/LTEA%20151.png) |  |

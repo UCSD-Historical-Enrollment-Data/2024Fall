@@ -1,0 +1,11 @@
+# ASTR
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| ASTR 1 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ASTR%201.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ASTR%201.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ASTR%201.png) |  |
+| ASTR 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ASTR%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ASTR%20101.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ASTR%20101.png) |  |
+| ASTR 120 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ASTR%20120.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ASTR%20120.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ASTR%20120.png) |  |
+| ASTR 18 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ASTR%2018.csv) |  |
+| ASTR 200 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ASTR%20200.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ASTR%20200.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ASTR%20200.png) |  |
+| ASTR 202 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ASTR%20202.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ASTR%20202.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ASTR%20202.png) |  |
+| ASTR 20A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ASTR%2020A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ASTR%2020A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ASTR%2020A.png) |  |

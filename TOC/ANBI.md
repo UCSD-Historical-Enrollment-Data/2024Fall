@@ -1,0 +1,9 @@
+# ANBI
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| ANBI 100 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ANBI%20100.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ANBI%20100.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ANBI%20100.png) |  |
+| ANBI 112 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ANBI%20112.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ANBI%20112.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ANBI%20112.png) |  |
+| ANBI 117 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ANBI%20117.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ANBI%20117.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ANBI%20117.png) |  |
+| ANBI 120 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ANBI%20120.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ANBI%20120.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ANBI%20120.png) |  |
+| ANBI 145 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Fall/blob/main/overall/ANBI%20145.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall/ANBI%20145.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Fall/main/plot_overall_wide/ANBI%20145.png) |  |
