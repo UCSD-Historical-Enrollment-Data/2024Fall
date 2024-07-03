@@ -51,6 +51,7 @@
 | DSC | [DSC](TOC/DSC.md) |
 | DSE | [DSE](TOC/DSE.md) |
 | DSGN | [DSGN](TOC/DSGN.md) |
+| EAP | [EAP](TOC/EAP.md) |
 | ECE | [ECE](TOC/ECE.md) |
 | ECON | [ECON](TOC/ECON.md) |
 | EDS | [EDS](TOC/EDS.md) |
