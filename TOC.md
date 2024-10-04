@@ -124,6 +124,7 @@
 | MGT | [MGT](TOC/MGT.md) |
 | MMW | [MMW](TOC/MMW.md) |
 | MSED | [MSED](TOC/MSED.md) |
+| MUIR | [MUIR](TOC/MUIR.md) |
 | MUS | [MUS](TOC/MUS.md) |
 | NANO | [NANO](TOC/NANO.md) |
 | NEU | [NEU](TOC/NEU.md) |
